@@ -1,4 +1,4 @@
-# Structured Doubly Stochastic Graph-based Clustering （SDSGC）
+# Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation （MCDLT）
 This is a Matlab implementation of  paper "Multi-order Graph based Clustering Via Dynamical Low Rank Tensor Approximation", which is accepted by Neurocomputing in 2025. 
 
 # Contributions
