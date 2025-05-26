@@ -14,7 +14,7 @@ Run "test_MCDLT.m", the clustering results and visual graph will be reported.
 ## For hyperparamters
 You should notice the hyperparameters. There are in total four hyperparameters for our model. $o$ is the maximum order of graph. $Z$ is the retained number of graph after adaptive selection. $alpha$  and $beta$ are two hyperparameters for low-rank tensor learning.
 
-The value of $o$ and $Z$ is easy to set. In order to ensure the effectiveness of graph selection, we only need to set $o$ is relatively large and $Z$ is relatively small. For $alpha$  and $beta$, we found when their values in [10,100,1000], the best clusteing performance is always achieved.
+The value of $o$ and $Z$ is easy to set. In order to ensure the effectiveness of graph selection, we only need to set $o$ is relatively large and $Z$ is relatively small. For U+03B1  and U+03B2, we found when their values in [10,100,1000], the best clusteing performance is always achieved.
 
 
 # For more  works
